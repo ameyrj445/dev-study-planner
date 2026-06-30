@@ -1,0 +1,26 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "task": "Introduction to Docker & Core Concepts (What is Docker, Containers vs. VMs, Architecture)",
+      "category": "Tech",
+      "estimation_pomodoros": 2,
+      "completed": false
+    },
+    {
+      "id": 2,
+      "task": "Installing Docker & Basic CLI Commands (run, pull, ps, stop, rm, images)",
+      "category": "Tech",
+      "estimation_pomodoros": 3,
+      "completed": false
+    },
+    {
+      "id": 3,
+      "task": "Creating Custom Docker Images with Dockerfiles (FROM, RUN, CMD, COPY, etc.)",
+      "category": "Tech",
+      "estimation_pomodoros": 4,
+      "completed": false
+    }
+  ],
+  "active_pomodoro": null
+}
